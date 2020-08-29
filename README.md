@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Femi Adegbite. I'm an Mobile Engineer at [Riby](https://riby.me), revamping [Enumerator](https://play.google.com/store/apps/details?id=ng.riby.enumerator.trade&hl=en) - letting you easily collect dynamics data for several company, reasons, products etc in places without internet.
+
+I love developing for Android, and also enjoy building stuff with flutter.
+
+Thanks for checking out my profile.
+
+Let's hangout on [Twitter](https://twitter.com/Efhemsy), or even [LinkedIn](https://www.linkedin.com/in/femi-adegbite-a1738b11a/)
+
 <!--
 **Efhemo/Efhemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
