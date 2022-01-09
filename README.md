@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Femi Adegbite. I'm an Mobile Engineer at [Riby](https://riby.me), revamping [Enumerator](https://play.google.com/store/apps/details?id=ng.riby.enumerator.trade&hl=en) - letting you easily collect dynamics data for several company, reasons, products etc in places without internet.
+I'm an Software Engineer at [Xpresspayments Solution](https://www.xpresspayments.com/), providing payment services.
 
 I love developing for Android, and also enjoy building stuff with flutter.
 
