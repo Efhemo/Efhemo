@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-I'm an Software Engineer at [Xpresspayments Solution](https://www.xpresspayments.com/), providing payment services.
+I’m a Software Developer passionate about building scalable and user-focused applications. My core strengths are in **Android (Kotlin, Java)** and **Flutter**, but I also work with **web technologies** to build full-stack solutions when needed.
 
-I love developing for Android, and also enjoy building stuff with flutter.
+I care about clean architecture, reusable components, and solving real-world problems through thoughtful design and efficient code.
 
-Thanks for checking out my profile.
+- 🔧 Tools I use: Android Studio, VS Code, Xcode, Git, Swagger
+- 🌐 Interests: Mobile apps, APIs, payments, microservices
+- 🚀 Always learning and open to collaboration
 
-Let's hangout on [Twitter](https://twitter.com/Efhemsy), or even [LinkedIn](https://www.linkedin.com/in/femi-adegbite-a1738b11a/)
+Reach me at:
+🔗 [LinkedIn](https://www.linkedin.com/in/femi-adegbite-a1738b11a)
 
 <!--
 **Efhemo/Efhemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
