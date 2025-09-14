@@ -5,11 +5,11 @@ I’m a Software Developer passionate about building scalable and user-focused a
 I care about clean architecture, reusable components, and solving real-world problems through thoughtful design and efficient code.
 
 - 🔧 Tools I use: Android Studio, VS Code, Xcode, Git, Swagger
-- 🌐 Interests: Mobile apps, APIs, payments, microservices
+- 🌐 Interests: Web, Mobile apps, APIs, payments, microservices
 - 🚀 Always learning and open to collaboration
 
 Reach me at:
-🔗 [LinkedIn](https://www.linkedin.com/in/femi-adegbite-a1738b11a)
+🔗 [LinkedIn](https://www.linkedin.com/in/femidev001)
 
 <!--
 **Efhemo/Efhemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
