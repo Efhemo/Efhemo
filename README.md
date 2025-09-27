@@ -8,8 +8,6 @@ I care about clean architecture, reusable components, and solving real-world pro
 - 🌐 Interests: Web, Mobile apps, APIs, payments, microservices
 - 🚀 Always learning and open to collaboration
 
-Reach me at:
-🔗 [LinkedIn](https://www.linkedin.com/in/femidev001)
 
 <!--
 **Efhemo/Efhemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
