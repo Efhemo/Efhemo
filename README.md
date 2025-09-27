@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a Software Developer passionate about building scalable and user-focused applications. My core strengths are in **Android (Kotlin, Java)** and **Flutter**, but I also work with **web technologies** to build full-stack solutions when needed.
+I’m a Software Developer passionate about building scalable and user-focused applications. My core strengths are in **Android (Kotlin, Java)** and **Flutter**, but I also work with **web technologies** to build full-stack solutions.
 
 I care about clean architecture, reusable components, and solving real-world problems through thoughtful design and efficient code.
 
